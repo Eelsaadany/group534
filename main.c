@@ -3,6 +3,6 @@
 
 int main()
 {
-	printf("first test 534");
+	printf("sec test");
 	return 0 ;
 }
