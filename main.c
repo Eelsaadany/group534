@@ -14,13 +14,13 @@ int main()
     	printf("Mostafa Ayman Abdelmaksoud test");
     int i;
     printf("dev test");
+    prinf("Mr_Dth");
     printf("Mohammad Magdy");
     printf("Yusuf Elsayed");
     printf("Yousef Magdy :)");
     printf("Mostafa Ayman Abdelmaksoud test");
     printf("Donia");
-    printf("YOSEF SAMY\n");
-    for ( i = 0; i < NUM; ++i)
+
     {
         printf("Code Test !!!!\n");
     }
