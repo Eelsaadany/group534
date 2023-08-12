@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#define NUM_TWO 10
 
 int main()
 {
@@ -9,6 +9,6 @@ int main()
     printf("Yousef Magdy :)");
     printf("Mostafa Ayman Abdelmaksoud test");
     printf("Donia");
-    printf("YOSEF SAMY\n");
+    for(int i=0;i<NUM_TWO;i++)printf("YOSEF SAMY\n");
     return 0 ;
 }
