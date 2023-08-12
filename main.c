@@ -11,8 +11,7 @@ int main()
     printf("Yousef Magdy :)");
     printf("Mostafa Ayman Abdelmaksoud test");
     printf("Donia");
-    printf("YOSEF SAMY\n");
-    for ( i = 0; i < NUM; ++i)
+
     {
         printf("Code Test !!!!\n");
     }
