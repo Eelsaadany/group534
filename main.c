@@ -12,9 +12,9 @@ int main()
 	printf("Yusuf Elsayed");
     	printf("Yousef Magdy -_-");
     	printf("Mostafa Ayman Abdelmaksoud test");
-    int i;
+    int i , num = 5;
     printf("dev test");
-    prinf("Mr_Dth");
+    printf("\n Mr_Dth \n");
     printf("Mohammad Magdy");
     printf("Yusuf Elsayed");
     printf("Yousef Magdy :)");
@@ -22,6 +22,7 @@ int main()
     printf("Donia");
     printf("Doha");
 
+    for(i = 0 ; i < num ; i++)
     {
         printf("Code Test !!!!\n");
     }
